@@ -51,7 +51,7 @@ brotlipy==0.7.0
 cachetools==5.3.2
 catalogue==2.0.10
 category-encoders==2.6.3
-certifi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3bweqb8byn/croot/certifi_1690232244779/work/certifi
+certifi==2024.2.2
 cffi @ file:///Users/cbousseau/work/recipes/ci_py311/cffi_1677903595907/work
 chardet @ file:///Users/cbousseau/work/recipes/ci_py311/chardet_1677931647221/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
@@ -375,7 +375,7 @@ SQLAlchemy @ file:///Users/cbousseau/work/recipes/ci_py311/sqlalchemy_1677934876
 srsly==2.4.8
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d39rlzrllo/croot/statsmodels_1689937269798/work
-streamlit==1.29.0
+streamlit==1.31.1
 sympy @ file:///Users/cbousseau/work/recipes/ci_py311_2/sympy_1678995976952/work
 tables @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_81qnps6056/croot/pytables_1691621471831/work
 tabulate @ file:///Users/cbousseau/work/recipes/ci_py311/tabulate_1678003852126/work
