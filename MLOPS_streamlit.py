@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
 import streamlit as st
 import yfinance as yf
 import datetime
@@ -33,8 +31,8 @@ with col2:
     st.header("Volumes")
     st.line_chart(hist['Volume'])
 
+#Author Abhishek Mishra
 
-# In[ ]:
 
 
 
